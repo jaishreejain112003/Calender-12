@@ -1,0 +1,69 @@
+
+
+.{
+  margin :0;
+  padding :0;
+  box-sizing : border-box;
+} 
+
+
+
+nav.navbar a.navbar-brand{
+  height :0px;
+  width:9px; 
+   /* width :9%; */
+   max-width: 16%;  
+/* height: auto;   */
+}
+
+nav.navbar{
+width: 100px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+}
+
+
+
+nav.dropdown{
+
+
+}
+
+.background-container{
+  background-color: #090909;
+  width : 100%;
+  height : 500px;
+  }
+ 
+  .navbar-text {
+    color: #000000;
+   }
+
+  .table {
+    margin: 0 auto 20px;
+  }
+  .cont{
+    width : 30vw;
+
+  }
+  
+  .today {
+    background-color: #009e6c;
+    color: rgb(224, 22, 22);
+  }
+  
+  .in-prev-month,
+  .in-next-month {
+    opacity: 0.5;
+  }
+
+  .style{
+    height : 50px;
+    width : 30vw;
+
+
+
+  }
+
